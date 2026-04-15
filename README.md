@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/huichapan97-dot/huichapan97-dot/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/huichapan97-dot/huichapan97-dot/main/Banner.png.png" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Mario Huichapan 👋</h1>
