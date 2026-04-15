@@ -1,3 +1,4 @@
+![banner](https://raw.githubusercontent.com/huichapan97-dot/QA-Testing-ecommerce/main/Banner.png.png)
 ## Hi there 👋
 
 <!--
