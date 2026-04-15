@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/huichapan97-dot/huichapan97-dot/main/Banner.png.png" width="100%" />
-</p>
+![banner](https://raw.githubusercontent.com/huichapan97-dot/QA-Testing-ecommerce/main/Banner.png.png)
 
 <h1 align="center">Hi, I'm Mario Huichapan 👋</h1>
 
