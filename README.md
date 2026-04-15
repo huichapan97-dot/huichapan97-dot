@@ -40,19 +40,6 @@ End-to-end testing project focused on validating an e-commerce platform.
 https://github.com/huichapan97-dot/QA-Testing-ecommerce
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huichapan97-dot&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huichapan97-dot&layout=compact" />
-</p>
-
----
-
 ## 📫 Contact
 
 - 📍 Los Mochis, Sinaloa, México  
