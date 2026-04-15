@@ -1,5 +1,12 @@
 ![banner](https://raw.githubusercontent.com/huichapan97-dot/QA-Testing-ecommerce/main/Banner.png.png)
 ## Hi there 👋
+## 🧰 Tech Stack
+- Postman
+- Jira
+- API Testing
+- Manual Testing
+## 🎯 About Me
+QA Engineer focused on delivering high-quality software through manual and API testing.
 
 <!--
 **huichapan97-dot/huichapan97-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
