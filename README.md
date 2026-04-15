@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Mario Huichapan 👋</h1>
 
 <p align="center">
-  QA Engineer in progress | Manual Testing | API Testing | Jira
+  QA Engineer | Manual Testing | API Testing | Jira
 </p>
 
 ---
